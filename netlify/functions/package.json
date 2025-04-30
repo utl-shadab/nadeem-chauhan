@@ -1,0 +1,9 @@
+{
+  "name": "nadeem-chauhan-consultancy-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for Nadeem Chauhan Consultancy",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}
