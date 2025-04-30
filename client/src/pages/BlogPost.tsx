@@ -135,7 +135,7 @@ const BlogPost = () => {
                         <p>{section.content}</p>
                       )}
                       
-                      {section.type === 'list' && (
+                      {section.type === 'list' && section.items && (
                         <ul>
                           {section.items.map((item, i) => (
                             <li key={i}>{item}</li>

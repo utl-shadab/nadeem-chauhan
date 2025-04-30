@@ -155,6 +155,5 @@ export const createStaggeredVariants = (
     transition: {
       staggerChildren: delayBetween
     }
-  },
-  children: childVariants
+  }
 });
