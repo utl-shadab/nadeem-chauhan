@@ -96,4 +96,4 @@ If you're using Gmail as your email provider, you'll need to:
 ## Credits
 
 - Design: Nadeem Chauhan Consultancy
-- Development: [Your Name]
+- Development: Shadab Choudhary
